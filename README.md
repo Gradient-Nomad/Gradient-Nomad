@@ -46,7 +46,7 @@
 
 ---
 
-# Contribution Animation
+# Contribution Graph
 
 ---
 
