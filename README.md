@@ -8,7 +8,7 @@
 * Building end-to-end ML systems (data → model → deployment)
 * Currently working on AI Financial Analyst & Healthcare ML projects
 * Strong interest in real-world intelligent systems
-* Goal: Become a Top 1% AI Engineer
+
 
 ---
 
