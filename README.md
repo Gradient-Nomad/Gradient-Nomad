@@ -1,59 +1,60 @@
----
+# Hey there! I'm Gradient Nomad 🧭
+
+![Profile Views](https://komarev.com/ghpvc/?username=Gradient-Nomad&label=PROFILE+VIEWS&color=0e75b6&style=flat)
+![Focus](https://img.shields.io/badge/Focus-AI%20%26%20ML-blue?style=flat)
+![Role](https://img.shields.io/badge/Role-ML%20Engineer-orange?style=flat)
 
 ---
 
 ## About Me
 
-* Mathematics & Computing undergraduate focused on AI & Data Science
-* Building end-to-end ML systems (data → model → deployment)
-* Currently working on AI Financial Analyst & Healthcare ML projects
-* Strong interest in real-world intelligent systems
+I'm a machine learning engineer and researcher who wanders across the ever-shifting landscape of AI — from gradient descent to deployed systems. I build intelligent systems end-to-end, turning complex research into practical, real-world applications.
 
-
----
-
-# Programming Languages
-
-
-
-
-
-\
+- Currently working on: **Deep Learning research & scalable ML pipelines**
+- Interests: **Generative AI, Optimization Theory, MLOps & Distributed Training**
 
 ---
 
-# Libraries & Tools
+## 🛠 Tech Stack & Tools
 
-
-
-
-
-\
-
----
-
-# Deployment & Version Control
-
-\
+| Category | Tech / Tools |
+|---|---|
+| Languages | Python, Rust, SQL |
+| AI / ML | PyTorch, TensorFlow, JAX, Scikit-Learn |
+| Generative AI | Diffusers, Transformers, LangChain |
+| MLOps | MLflow, Weights & Biases, DVC, Docker |
+| Cloud & Infra | AWS, GCP, Kubernetes, Ray |
+| Tools | Git, Linux, Jupyter, FastAPI, Streamlit |
 
 ---
 
-# GitHub Stats
+## Performance Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gradient-Nomad&show_icons=true&theme=dark&bg_color=0d1117&title_color=00bfae&icon_color=00bfae&text_color=c9d1d9&border_color=30363d" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gradient-Nomad&layout=compact&theme=dark&bg_color=0d1117&title_color=00bfae&text_color=c9d1d9&border_color=30363d" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gradient-Nomad&theme=dark&background=0d1117&ring=00bfae&fire=f97316&currStreakLabel=00bfae&sideLabels=c9d1d9&sideNums=c9d1d9&dates=8b949e&border=30363d" alt="GitHub Streak" />
+</p>
 
 ---
 
-# GitHub Summary
+## Where You Can Find Me
+
+<p align="center">
+  <a href="[https://linkedin.com/in/Gradient-Nomad](https://www.linkedin.com/in/mohammad-anas-20a6411b7/)">
+    <img src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  
+  <a href="mailto:mohd.anas0361@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-# Contribution Graph
-
----
-
-# Open To Opportunities
-
-* AI / Machine Learning Internships
-* Data Science roles
-* End-to-End ML & AI project collaborations
-
----
+*Currently seeking collaboration on research projects and open source work in AI, machine learning, and intelligent systems. 
