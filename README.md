@@ -31,9 +31,10 @@ I'm a machine learning engineer and researcher who wanders across the ever-shift
 ## Performance Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gradient-Nomad&show_icons=true&theme=dark&bg_color=0d1117&title_color=00bfae&icon_color=00bfae&text_color=c9d1d9&border_color=30363d" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gradient-Nomad&layout=compact&theme=dark&bg_color=0d1117&title_color=00bfae&text_color=c9d1d9&border_color=30363d" alt="Most Used Languages" />
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gradient-Nomad&show_icons=true&theme=dark&bg_color=0d1117&title_color=00bfae&icon_color=00bfae&text_color=c9d1d9&border_color=30363d" />
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gradient-Nomad&layout=compact&theme=dark&bg_color=0d1117&title_color=00bfae&text_color=c9d1d9&border_color=30363d" />
 </p>
 
 <p align="center">
