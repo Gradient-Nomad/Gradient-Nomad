@@ -1,4 +1,4 @@
-# Hey there! I'm Gradient Nomad 🧭
+# Hey there! I'm Gradient Nomad 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Gradient-Nomad&label=PROFILE+VIEWS&color=0e75b6&style=flat)
 ![Focus](https://img.shields.io/badge/Focus-AI%20%26%20ML-blue?style=flat)
