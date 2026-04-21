@@ -15,16 +15,13 @@ I'm a machine learning engineer and researcher who wanders across the ever-shift
 
 ---
 
-## 🛠 Tech Stack & Tools
+##  Tech Stack & Tools
 
 | Category | Tech / Tools |
 |---|---|
-| Languages | Python, Rust, SQL |
-| AI / ML | PyTorch, TensorFlow, JAX, Scikit-Learn |
-| Generative AI | Diffusers, Transformers, LangChain |
-| MLOps | MLflow, Weights & Biases, DVC, Docker |
-| Cloud & Infra | AWS, GCP, Kubernetes, Ray |
-| Tools | Git, Linux, Jupyter, FastAPI, Streamlit |
+| Languages | Python, Matlab, SQL |
+| AI / ML | PyTorch, TensorFlow, Scikit-Learn |
+| Tools | Git, Jupyter, FastAPI, Streamlit |
 
 ---
 
@@ -46,7 +43,7 @@ I'm a machine learning engineer and researcher who wanders across the ever-shift
 ## Where You Can Find Me
 
 <p align="center">
-  <a href="[https://linkedin.com/in/Gradient-Nomad](https://www.linkedin.com/in/mohammad-anas-20a6411b7/)">
+  <a href="https://www.linkedin.com/in/mohammad-anas06/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
@@ -58,4 +55,4 @@ I'm a machine learning engineer and researcher who wanders across the ever-shift
 
 ---
 
-*Currently seeking collaboration on research projects and open source work in AI, machine learning, and intelligent systems. 
+
